@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vicentia
 - 👀 I’m interested in meeting new people and building a great network
-- 🌱 I’m currently learning fullstack software engineering...
+- 🌱 I’m currently focusing on frontend development...
 - 💞️ I’m looking to collaborate on projects
 - 📫 my email address is ephya25@gmail.com
 - 😄 Pronouns: she
